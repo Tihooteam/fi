@@ -71,9 +71,10 @@ function create_config( )
     "plugins",
     "tools"
  },
-    sudo_users = {157059515},
-    admins = {},
-    disabled_channels = {},
+   sudo_users = {205258325},
+		admins = {205258325},
+		disabled_channels = {},
+   
     moderation = {data = './data/moderation.json'},
     info_text = [[》Beyond Reborn v3.0
 An advanced administration bot based on https://valtman.name/telegram-cli
